@@ -718,24 +718,21 @@ License: You must have a valid license purchased only from themeforest(the above
                         <a href="<?= base_url('categories/shirt') ?>" class="side-menu side-menu">
                             <div class="side-menu__icon"> <i data-lucide="home"></i> </div>
                             <div class="side-menu__title">
-                                T-Shirt
+                                Maintenence AC
                                 <div class="side-menu__sub-icon transform rotate-180"> </div>
-                            </div>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="<?= base_url('categories/jacket') ?>" class="side-menu">
-                            <div class="side-menu__icon"> <i data-lucide="shopping-bag"></i> </div>
-                            <div class="side-menu__title">
-                                Jacket
-                                <div class="side-menu__sub-icon "></div>
                             </div>
                         </a>
                     </li>
                     <li>
                         <a href="<?= base_url('categories/shoes') ?>" class="side-menu">
                             <div class="side-menu__icon"> <i data-lucide="file-text"></i> </div>
-                            <div class="side-menu__title"> Shoes </div>
+                            <div class="side-menu__title"> Servis AC </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="<?= base_url('categories/elektronik') ?>" class="side-menu">
+                            <div class="side-menu__icon"> <i data-lucide="file-text"></i> </div>
+                            <div class="side-menu__title"> CCTV </div>
                         </a>
                     </li>
                     <li>
@@ -744,21 +741,6 @@ License: You must have a valid license purchased only from themeforest(the above
                             <div class="side-menu__title"> Electronic </div>
                         </a>
                     </li>
-
-                    <li>
-                        <a href="<?= base_url('categories/kids') ?>" class="side-menu">
-                            <div class="side-menu__icon"> <i data-lucide="file-text"></i> </div>
-                            <div class="side-menu__title"> Kids & Baby </div>
-                        </a>
-                    </li>
-
-                    <li>
-                        <a href="<?= base_url('categories/fashion') ?>" class="side-menu">
-                            <div class="side-menu__icon"> <i data-lucide="file-text"></i> </div>
-                            <div class="side-menu__title"> Fashion & Make Up </div>
-                        </a>
-                    </li>
-
 
                     <li class="side-nav__devider my-6"></li>
                 </ul>
