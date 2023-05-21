@@ -17,19 +17,4 @@ class Model_kategori extends CI_Model
 	{
 		return $this->db->get_where('product', array('kategori' => 'Shoes'));
 	}
-
-	public function jacket()
-	{
-		return $this->db->get_where('product', array('kategori' => 'Jacket'));
-	}
-
-	public function kids()
-	{
-		return $this->db->get_where('product', array('kategori' => 'Kids & Baby'));
-	}
-
-	public function fashion()
-	{
-		return $this->db->get_where('product', array('kategori' => 'Fashion & Make Up'));
-	}
 }
