@@ -18,7 +18,7 @@ License: You must have a valid license purchased only from themeforest(the above
     <meta name="description" content="Icewall admin is super flexible, powerful, clean & modern responsive tailwind admin template with unlimited possibilities.">
     <meta name="keywords" content="admin template, Icewall Admin Template, dashboard template, flat admin template, responsive admin template, web app">
     <meta name="author" content="LEFT4CODE">
-    <title><?= $title ?> | Shoppify</title>
+    <title><?= $title ?> | CV.Lingga Pratama Teknik</title>
     <!-- BEGIN: CSS Assets-->
     <link rel="stylesheet" href="<?= site_url('asset') ?>/admin/dist/css/app.css" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/7.33.1/sweetalert2.min.css" rel="stylesheet">
@@ -33,8 +33,8 @@ License: You must have a valid license purchased only from themeforest(the above
             <!-- BEGIN: Register Info -->
             <div class="hidden xl:flex flex-col min-h-screen">
                 <a href="" class="-intro-x flex items-center pt-5">
-                    <img alt="Midone - HTML Admin Template" class="w-6" src="<?= site_url('asset') ?>/admin/dist/images/logo.svg">
-                    <span class="text-white text-lg ml-3"> Icewall </span>
+                    <img alt="Midone - HTML Admin Template" class="w-6" src="<?= site_url('asset') ?>/admin/dist/serbaserbi/logocv.png">
+                    <span class="text-white text-lg ml-3"> CV. Lingga Pratama Teknik </span>
                 </a>
                 <div class="my-auto">
                     <img alt="Midone - HTML Admin Template" class="-intro-x w-1/2 -mt-16" src="<?= site_url('asset') ?>/admin/dist/images/illustration.svg">
