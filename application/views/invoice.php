@@ -25,8 +25,8 @@
                 </div>
                 <div class="lg:text-right mt-10 lg:mt-0 lg:ml-auto">
                     <div class="text-base text-slate-500">Payment From</div>
-                    <div class="text-lg font-medium text-primary mt-2">Shoppify Commerce</div>
-                    <div class="mt-1">info.shoppify@mail.co.id</div>
+                    <div class="text-lg font-medium text-primary mt-2">CV. Lingga Pratama Teknik Commerce</div>
+                    <div class="mt-1">linggapratamateknik@yahoo.com</div>
                 </div>
             </div>
         </div>
