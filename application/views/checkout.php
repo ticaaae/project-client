@@ -52,7 +52,7 @@
                                 <div class="mt-5">
                                     <div class="mb-5">
                                         <label for="post-form-7" class="form-label">Your Address <small class="text-danger">*</small></label>
-                                        <input type="text" id="alamat" name="alamat" class="form-control" placeholder="Your mobile phone" autocomplete="off" required>
+                                        <input type="text" id="alamat" name="alamat" class="form-control" placeholder="Your Address" autocomplete="off" required>
                                     </div>
 
                                     <div class="mb-5">
@@ -68,11 +68,6 @@
                                     <div class="mb-5">
                                         <label for="post-form-7" class="form-label">Postal Code <small class="text-danger">*</small></label>
                                         <input type="text" class="form-control" id="kode_pos" name="kode_pos" placeholder="Your mobile phone" autocomplete="off" required>
-                                    </div>
-
-                                    <div class="mb-5">
-                                        <label for="post-form-7" class="form-label">Delivery Service <small class="text-danger">*</small></label>
-                                        <select name="ekspedisi" id="ekspedisi" class="form-control"></select>
                                     </div>
                                 </div>
                             </div>
